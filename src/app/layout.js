@@ -7,7 +7,7 @@ function RootLayout({ children }) {
     <html lang="en">
       <body>
         {children}
-        <footer>Copyright Nic Inc.</footer>
+        <footer>Copyright Nic Inc. New Color</footer>
       </body>
     </html>
   );
